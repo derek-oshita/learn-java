@@ -1,7 +1,6 @@
-// f5 to run 
-
 public class Main {
-    public static void main (String[] args) {
-        System.out.println("Hello world...");
+    public static void main(String[] args) {
+        int age = 30; 
+        System.out.println(age);
     }
 }
